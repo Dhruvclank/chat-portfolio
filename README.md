@@ -1,4 +1,4 @@
-A chatbot-based, interactive developer portfolio that let people know you by "talking to you". Here is [how I built it](https://dev.to/jeffreythecoder/how-i-built-my-portfolio-as-a-chatbot-using-nextjs-2hh5).
+A chatbot-based, interactive developer portfolio that let people know you by "talking to you".
 
 ## Getting Started
 
